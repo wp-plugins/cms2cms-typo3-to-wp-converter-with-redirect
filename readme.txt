@@ -39,6 +39,8 @@ Works for **TYPO3 4.5 - 6.x** and **WordPress 3.x.**
 1. Install WordPress and have both TYPO3 and WordPress websites live.
 2. Find TYPO3 FTP access details (host, username, password).
 
+Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration 
+
 == Installation ==
 
 1. Download the plugin zip file
