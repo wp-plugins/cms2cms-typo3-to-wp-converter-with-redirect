@@ -3,14 +3,13 @@ Contributors: cms2cms
 Tags: typo3 to wordpress, typo3 to wordpress converter, typo3 to wordpress mirgation, convert typo3 to wordpress, migrate typo3 to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.7
-Stable tag: 2.0.2
+Stable tag: 2.3.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 If you need to migrate your website from TYPO3 to WordPress, this plugin can help to transfer your content automatically.
 
 == Description ==
-
 If you need to migrate your website from TYPO3 to WordPress, this plugin can help to transfer your content automatically. You can easily set up your migration even with no programming background. The transfer takes from a few minutes to a couple hours  - everything depends on the size of your website.
 
 = The following content items can be migrated from TYPO3 to WordPress with CMS2CMS =
@@ -49,7 +48,6 @@ Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typ
 4. Go to Admin -> Plugins, find “TYPO3 to WordPress Converter” and click Activate
 5. You’ll be redirected to CMS2CMS website in order to complete your migration
 
-
 == Frequently Asked Questions ==
 
 = Your website is unreachable =
@@ -79,8 +77,8 @@ If the module suhosin for PHP is installed on the server, increase the parameter
 
 = Your server responds with 500 Server Error =
 Incorrect permissions for bridge folder are the most common reason of this internal server error.
-1. for 'cms2cms' folder, specify the file permissions 755
-2. for 'index.php', 'bridge.php' and 'key.php' files in 'cms2cms' folder, specify the permissions 644
+1. for \'cms2cms\' folder, specify the file permissions 755
+2. for \'index.php\', \'bridge.php\' and \'key.php\' files in \'cms2cms\' folder, specify the permissions 644
 3. If it won’t help, contact your system administrator who can provide you with server logs access for further error detection. You can also request technical assistance from your hosting provider.
 
 = Failed to connect to host / Operation timed out / Nothing was returned from the server / The connection to your server has timed out =
@@ -105,7 +103,6 @@ To fix it, you should either download the bridge again under the account you are
 = An unknown error occurred =
 Сontact us at support@cms2cms.com.
 
-
 == Screenshots ==
 
 1. /assets/screenshot-1.png
@@ -116,9 +113,11 @@ To fix it, you should either download the bridge again under the account you are
 
 == Changelog ==
 
+= 2.0.3 =
+* Improvements
+
 = 2.0.2 =
 * Bug fixes
-
 
 = 2.0.1 =
 * Improved Connection Bridge
@@ -135,4 +134,3 @@ To fix it, you should either download the bridge again under the account you are
 
 = 1.0 =
 * Initial commit
-

@@ -39,7 +39,7 @@ class CmsPluginView
 
     public function getPluginSourceType()
     {
-        return 'Typo3';
+        return 'TYPO3';
     }
 
     public function getPluginTargetName()
