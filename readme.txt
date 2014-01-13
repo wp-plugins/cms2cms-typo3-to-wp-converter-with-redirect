@@ -2,8 +2,8 @@
 Contributors: cms2cms
 Tags: typo3 to wordpress, typo3 to wordpress converter, typo3 to wordpress mirgation, convert typo3 to wordpress, migrate typo3 to wordpress
 Requires at least: 3.0.0
-Tested up to: 3.7
-Stable tag: 2.3.8
+Tested up to: 3.8
+Stable tag: 3.0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,7 +49,6 @@ Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typ
 5. You’ll be redirected to CMS2CMS website in order to complete your migration
 
 == Frequently Asked Questions ==
-
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
 1. Make sure your site is available online at the moment.
@@ -112,9 +111,6 @@ To fix it, you should either download the bridge again under the account you are
 5. /assets/screenshot-5.png
 
 == Changelog ==
-
-= 2.0.3 =
-* Improvements
 
 = 2.0.2 =
 * Bug fixes
