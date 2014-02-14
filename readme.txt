@@ -3,13 +3,14 @@ Contributors: cms2cms
 Tags: typo3 to wordpress, typo3 to wordpress converter, typo3 to wordpress mirgation, convert typo3 to wordpress, migrate typo3 to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.0.5
+Stable tag: 3.3.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 If you need to migrate your website from TYPO3 to WordPress, this plugin can help to transfer your content automatically.
 
 == Description ==
+
 If you need to migrate your website from TYPO3 to WordPress, this plugin can help to transfer your content automatically. You can easily set up your migration even with no programming background. The transfer takes from a few minutes to a couple hours  - everything depends on the size of your website.
 
 = The following content items can be migrated from TYPO3 to WordPress with CMS2CMS =
@@ -49,6 +50,7 @@ Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typ
 5. You’ll be redirected to CMS2CMS website in order to complete your migration
 
 == Frequently Asked Questions ==
+
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
 1. Make sure your site is available online at the moment.
