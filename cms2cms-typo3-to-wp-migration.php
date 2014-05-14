@@ -1,8 +1,8 @@
 <?php
 /*
-    Plugin Name: CMS2CMS TYPO3 to WordPress migration
+    Plugin Name: CMS2CMS Typo3 to WordPress migration
     Plugin URI: http://www.cms2cms.com
-    Description: Migrate your website content from TYPO3 to WordPress easily and automatedly in just a few simple steps.
+    Description: Migrate your website content from Typo3 to WordPress easily and automatedly in just a few simple steps.
     Version: 1.0.1
     Author: MagneticOne
     Author URI: http://magneticone.com
