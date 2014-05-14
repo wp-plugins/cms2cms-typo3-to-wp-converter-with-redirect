@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: CMS2CMS TYPO3 to WordPress\n"
+"Project-Id-Version: CMS2CMS Typo3 to WordPress\n"
 "POT-Creation-Date: 2013-06-21 12:38+0200\n"
 "PO-Revision-Date: 2013-06-21 12:42+0200\n"
 "Last-Translator: \n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../cms2cms-wordpress-to-typo3.php:35
-msgid "TYPO3"
+msgid "Typo3"
 msgstr ""
 
 #: ../cms2cms-wordpress-to-typo3.php:41
@@ -137,8 +137,8 @@ msgstr ""
 #: ../ui.php:227
 msgid ""
 "CMS2CMS.com is the one-of-its kind tool for fast, accurate and trouble-free "
-"website migration from TYPO3 to WordPress. Just a few mouse clicks - and "
-"your TYPO3 articles, categories, images, users, comments, internal links "
+"website migration from Typo3 to WordPress. Just a few mouse clicks - and "
+"your Typo3 articles, categories, images, users, comments, internal links "
 "etc are safely delivered to the new WordPress website."
 msgstr ""
 

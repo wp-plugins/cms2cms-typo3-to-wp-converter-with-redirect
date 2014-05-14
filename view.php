@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('TYPO3', 'cms2cms-mirgation');
+        return $this->__('Typo3', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'TYPO3';
+        return 'Typo3';
     }
 
     public function getPluginTargetName()
