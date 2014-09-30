@@ -45,7 +45,7 @@ Works for **TYPO3 4.5 - 6.x** and **WordPress 4.x.**
 = Video =
 [youtube https://www.youtube.com/watch?v=yOGKG0ShhKk]
 
-Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration ?utm_source=TYPO3&utm_medium=Link&utm_campaign=WordPress_plugins
+Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration?utm_source=TYPO3&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
