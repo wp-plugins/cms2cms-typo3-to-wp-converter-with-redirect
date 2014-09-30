@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: typo3 to wordpress, typo3 to wordpress converter, typo3 to wordpress mirgation, convert typo3 to wordpress, migrate typo3 to wordpress
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,7 +23,7 @@ If you need to migrate your website from TYPO3 to WordPress, this plugin can hel
 * categories
 * users
 
-Works for **TYPO3 4.5 - 6.x** and **WordPress 3.x.**
+Works for **TYPO3 4.5 - 6.x** and **WordPress 4.x.**
 
 = Features =
 - internal site navigation is preserved after migration
@@ -45,7 +45,7 @@ Works for **TYPO3 4.5 - 6.x** and **WordPress 3.x.**
 = Video =
 [youtube https://www.youtube.com/watch?v=yOGKG0ShhKk]
 
-Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration 
+Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration ?utm_source=TYPO3&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
