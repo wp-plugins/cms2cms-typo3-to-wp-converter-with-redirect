@@ -47,6 +47,8 @@ Works for **TYPO3 4.5 - 6.x** and **WordPress 4.x.**
 
 Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration?utm_source=TYPO3&utm_medium=Link&utm_campaign=WordPress_plugins
 
+See also: https://wordpress.org/plugins/cms2cms-automated-tumblr-to-wp-migration/
+
 == Installation ==
 
 1. Download the plugin zip file
