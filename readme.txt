@@ -47,6 +47,11 @@ Works for **TYPO3 4.5 - 6.x** and **WordPress 4.x.**
 
 Visit CMS2CMS website for more details: http://www.cms2cms.com/supported-cms/typo3-to-wordpress-migration?utm_source=TYPO3&utm_medium=Link&utm_campaign=WordPress_plugins
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 See also: https://wordpress.org/plugins/cms2cms-automated-tumblr-to-wp-migration/
 
 == Installation ==
