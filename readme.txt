@@ -14,7 +14,7 @@ If you need to migrate your website from TYPO3 to WordPress, this plugin can hel
 If you need to migrate your website from TYPO3 to WordPress, this plugin can help to transfer your content automatically. You can easily set up your migration even with no programming background. The transfer takes from a few minutes to a couple hours  - everything depends on the size of your website.
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
-* *Full Migration starts from $49.*
+* *Full Migration starts from $39.*
 
 = The following content items can be migrated from TYPO3 to WordPress with CMS2CMS =
 * posts
