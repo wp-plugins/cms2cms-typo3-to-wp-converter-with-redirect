@@ -17,7 +17,6 @@ If you need to migrate your website from TYPO3 to WordPress, this plugin can hel
 * *Full Migration starts from $39.*
 
 = The following content items can be migrated from TYPO3 to WordPress with CMS2CMS =
-* posts
 * pages
 * images
 * categories
